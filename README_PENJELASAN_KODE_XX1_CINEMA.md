@@ -1,3 +1,25 @@
+<div align="center">
+
+# 🎬 XX1 Cinema Management System 🎬
+
+**Program Manajemen Data Film Bioskop Berbasis Terminal (CLI)**
+
+</div>
+
+---
+
+## 👤 Biodata Mahasiswa
+
+| Keterangan | Data Mahasiswa |
+| :--- | :--- |
+| **Nama Lengkap** | Darrell Faiz Sinatria |
+| **NIM** | 2609116055 |
+| **Kelas** | B |
+| **Mata Kuliah** | Dasar-Dasar Pemrograman (DDP) |
+| **Tugas** | Mini Project 2 |
+
+---
+
 # Penjelasan Kode XX1 Cinema
 
 ## 1. Import Library
